@@ -1,0 +1,3 @@
+hola buenas estamos redecorando el interior de este texto desde Git Bash.
+^D
+[A[D[C
